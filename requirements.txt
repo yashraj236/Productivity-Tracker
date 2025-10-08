@@ -1,0 +1,8 @@
+openai>=1.43.0
+pillow>=10.4.0
+pyautogui>=0.9.54
+pandas>=2.2.2
+schedule>=1.2.2
+python-dotenv>=1.0.1
+
+
